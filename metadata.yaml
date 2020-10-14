@@ -1,0 +1,25 @@
+_repo: Pulmusparvi_63324
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mustakallio, Jooseppi
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '52377'
+    url: http://www.gutenberg.org/2009/agents/52377
+    wikipedia: https://fi.wikipedia.org/wiki/Jooseppi_Mustakallio
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63324'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: Pulmusparvi
+url: http://www.gutenberg.org/ebooks/63324
